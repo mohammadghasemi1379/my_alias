@@ -10,7 +10,6 @@ alias upgrade="sudo apt-get upgrade"
 alias etchosts="sudo nano /etc/hosts"
 alias hibernate="sudo systemctl hibernate"
 alias rmrf="rm -rf "
-alias fucku="rm -rf "
 
 #laravel and php
 alias laravel="~/.config/composer/vendor/bin/laravel"
